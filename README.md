@@ -100,16 +100,16 @@ The output file contains:
 
 ### Console Output
 ```
-🔍 Testing LMStudio configurations...
-✅ Found working API at: http://localhost:1234
-🎯 Using model: gemma-3-4b-it-qat
-📥 Loading ground truth from: label.csv
-🚀 Starting OCR processing...
+Testing LMStudio configurations...
+Found working API at: http://localhost:1234
+Using model: gemma-3-4b-it-qat
+Loading ground truth from: label.csv
+Starting OCR processing...
 
-📸 Processing plate001.jpg...
-✅ GT: B1234ABC | Pred: B1234ABC | CER: 0.0000
+Processing plate001.jpg...
+GT: B1234ABC | Pred: B1234ABC | CER: 0.0000
 
-📈 Average CER Score: 0.1250
+Average CER Score: 0.1250
 ```
 
 ## Performance Metrics
