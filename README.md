@@ -154,7 +154,6 @@ CER = Levenshtein_distance(prediction, ground_truth) / len(ground_truth)
 
 Tested with:
 - **Gemma 3 4B IT**: Good performance on Indonesian license plates
-- **Other VLMs**: Should work with any vision-language model in LMStudio
 
 ## Contributing
 
