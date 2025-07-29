@@ -164,12 +164,3 @@ To improve the system:
 3. Add support for different license plate formats
 4. Include confidence scores in output
 
-## License
-
-This project is intended for educational and research purposes. Please ensure compliance with local regulations regarding license plate data processing.
-
-## Acknowledgments
-
-- Uses RapidFuzz library for efficient string matching
-- Designed for Indonesian License Plate Recognition Dataset
-- Compatible with LMStudio's local API infrastructure
