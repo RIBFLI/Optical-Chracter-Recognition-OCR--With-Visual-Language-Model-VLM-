@@ -1,3 +1,5 @@
+Muhammad Ribfli_4222201014
+
 # OCR License Plate Recognition with Vision Language Models
 
 A Python application that performs Optical Character Recognition (OCR) on Indonesian license plates using Vision Language Models (VLMs) through LMStudio API. The system evaluates OCR accuracy using Character Error Rate (CER) metrics.
